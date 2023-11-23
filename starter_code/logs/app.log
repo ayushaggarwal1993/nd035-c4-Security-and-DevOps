@@ -1,0 +1,9 @@
+2023-11-23 16:59:32,563 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on MREM15B7893C with PID 26403 (/Users/ayush.aggarwal/Desktop/udacity/nd035-c4-Security-and-DevOps/starter_code/target/classes started by ayush.aggarwal in /Users/ayush.aggarwal/Desktop/udacity/nd035-c4-Security-and-DevOps/starter_code)
+2023-11-23 16:59:32,565 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-11-23 16:59:32,566 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-11-23 16:59:33,663 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2023-11-23 16:59:33,868 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 1.42 seconds (JVM running for 1.704)
+2023-11-23 16:59:37,511 INFO c.e.d.c.UserController [http-nio-8090-exec-2] User creation with username 'yes' failed
+2023-11-23 17:00:19,334 INFO c.e.d.c.UserController [http-nio-8090-exec-4] User creation with username 'ayush' failed
+2023-11-23 17:00:23,042 INFO c.e.d.c.UserController [http-nio-8090-exec-6] User creation with username 'try' failed
+2023-11-23 17:03:06,291 INFO c.e.d.c.UserController [main] User creation with username 'test' failed
